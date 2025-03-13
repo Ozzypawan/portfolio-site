@@ -6,7 +6,7 @@ import SectionTitle from '@/components/SectionTitle';
 
 const About = () => {
   useEffect(() => {
-    document.title = 'About | Pawan Raj Pandey';
+    document.title = 'Pawan Raj Pandey';
   }, []);
 
   const fadeInUp = {
