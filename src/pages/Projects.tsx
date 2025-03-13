@@ -8,7 +8,7 @@ import SectionTitle from '@/components/SectionTitle';
 
 const Projects = () => {
   useEffect(() => {
-    document.title = 'Projects | Pawan Raj Pandey';
+    document.title = 'Pawan Raj Pandey';
   }, []);
 
   const container = {
